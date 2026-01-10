@@ -10,7 +10,7 @@ p {
 }
 
 body {
-    background-color: rgb(177, 245, 186);
+    background-color: rgb(241, 234, 171);
 }
 
 img {
@@ -28,7 +28,7 @@ li {
 button {
     margin-left: 20px;
     font-size: 20px;
-    background-color: rgb(202, 245, 208);
+    background-color: rgb(241, 234, 171);
 }
 
 h3, h4 {
@@ -41,6 +41,6 @@ h3, h4 {
 .container, .container-ingredients, .container-steps {
     margin: 20px;
     padding: 20px;
-    background-color: rgb(202, 245, 208);
+    background-color: rgb(240, 239, 229);
     font-size: large;
 }
